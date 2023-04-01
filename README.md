@@ -68,4 +68,4 @@ display(gdf.head())
 4. If you want to include a binder badge in the readme of your repo, just copy the text in the `Expand to see the text below, paste it into your README to show a binder badge` box and paste it into your `readme.md`
 
 
-Thanks to John Foster for this!  https://github.com/johnofoster/ 
+Thanks to [John Foster](https://github.com/johnofoster/) for this!  
